@@ -1,0 +1,12 @@
+I:\oop\Lab7_skidanenko_program\Lab7_skidanenko_program\Library.Logic\bin\Debug\net6.0\Library.Logic.deps.json
+I:\oop\Lab7_skidanenko_program\Lab7_skidanenko_program\Library.Logic\bin\Debug\net6.0\Library.Logic.dll
+I:\oop\Lab7_skidanenko_program\Lab7_skidanenko_program\Library.Logic\bin\Debug\net6.0\Library.Logic.pdb
+I:\oop\Lab7_skidanenko_program\Lab7_skidanenko_program\Library.Logic\obj\Debug\net6.0\Library.Logic.csproj.AssemblyReference.cache
+I:\oop\Lab7_skidanenko_program\Lab7_skidanenko_program\Library.Logic\obj\Debug\net6.0\Library.Logic.GeneratedMSBuildEditorConfig.editorconfig
+I:\oop\Lab7_skidanenko_program\Lab7_skidanenko_program\Library.Logic\obj\Debug\net6.0\Library.Logic.AssemblyInfoInputs.cache
+I:\oop\Lab7_skidanenko_program\Lab7_skidanenko_program\Library.Logic\obj\Debug\net6.0\Library.Logic.AssemblyInfo.cs
+I:\oop\Lab7_skidanenko_program\Lab7_skidanenko_program\Library.Logic\obj\Debug\net6.0\Library.Logic.csproj.CoreCompileInputs.cache
+I:\oop\Lab7_skidanenko_program\Lab7_skidanenko_program\Library.Logic\obj\Debug\net6.0\Library.Logic.dll
+I:\oop\Lab7_skidanenko_program\Lab7_skidanenko_program\Library.Logic\obj\Debug\net6.0\refint\Library.Logic.dll
+I:\oop\Lab7_skidanenko_program\Lab7_skidanenko_program\Library.Logic\obj\Debug\net6.0\Library.Logic.pdb
+I:\oop\Lab7_skidanenko_program\Lab7_skidanenko_program\Library.Logic\obj\Debug\net6.0\ref\Library.Logic.dll
